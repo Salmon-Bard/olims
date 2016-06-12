@@ -1,22 +1,22 @@
 id,AssetNumber,Instrument,Description,Type/id,Brand/id,Supplier/id,Model,SerialNo,Location,InstallationDate
-instrument_crop,LABEQG-001,CropScan,"Bench top grain analyser, Desk3",instrument_type_nir,manufacturer_blott,supplier_inc,2000B,30308,S2,2016-02-01 00:00:00
-,LABEQG-002,Blott Titrator,Automatic volumetric titrator,instrument_type_aut,manufacturer_blott,supplier_inc,PFT2000,39515,S3,2016-02-01 00:00:00
-,LABEQG-003,AA 1,Atomic Absorption,instrument_type_aa,manufacturer_bavarain,supplier_inc,AAziczic,58227,S5,2016-02-01 00:00:00
-,LABEQG-004,AA 2,Atomic Absorption Spectrophotometer,instrument_type_aa,manufacturer_pelmer,supplier_inc,5000m,79514,S1,2016-02-01 00:00:00
-,LABEQG-005,Conductivity meter,Liquids Conductivity Meter,instrument_type_con,manufacturer_yasti,supplier_inc,1010,35453,S2,2016-02-01 00:00:00
-,LABEQG-006,Spectrometer 1,Mass Spectrometer,instrument_type_mass,manufacturer_fermo,supplier_inc,TSQ 7000,43516,S3,2016-02-01 00:00:00
-,LABEQG-007,Microscope (Beica),Optical Microscope,instrument_type_mic,manufacturer_beica,supplier_inc,CosmoStar IV,80586,S2,2016-02-01 00:00:00
-,LABEQG-008,Microscope (Neiss),Optical Microscope,instrument_type_mic,manufacturer_neiss,supplier_inc,RX Stellar,32128,S3,2016-02-01 00:00:00
-,LABEQG-009,NIRTech,Near Infra-red Transmission Analyser,instrument_type_nir,manufacturer_nirtech,supplier_inc,Series 2000,66153,S2,2016-02-01 00:00:00
-,LABEQG-010,Protein Analyser,Proteins,instrument_type_prot,manufacturer_bade,supplier_inc,Turbsolve 12,63453,S5,2016-02-01 00:00:00
-,LABEQG-011,Spectrometer 2,Spectrophotometer,instrument_type_spec,manufacturer_deckban,supplier_inc,FUD-55,27204,S1,2016-02-01 00:00:00
+instrument_crop,LABEQG-001,CropScan,"Bench top grain analyser, Desk3",instrument_type_nir,manufacturer_blott,supplier_inc,2000B,30308,S2,
+,LABEQG-002,Blott Titrator,Automatic volumetric titrator,instrument_type_aut,manufacturer_blott,supplier_inc,PFT2000,39515,S3,
+,LABEQG-003,AA 1,Atomic Absorption,instrument_type_aa,manufacturer_bavarain,supplier_inc,AAziczic,58227,S5,
+,LABEQG-004,AA 2,Atomic Absorption Spectrophotometer,instrument_type_aa,manufacturer_pelmer,supplier_inc,5000m,79514,S1,
+,LABEQG-005,Conductivity meter,Liquids Conductivity Meter,instrument_type_con,manufacturer_yasti,supplier_inc,1010,35453,S2,
+,LABEQG-006,Spectrometer 1,Mass Spectrometer,instrument_type_mass,manufacturer_fermo,supplier_inc,TSQ 7000,43516,S3,
+,LABEQG-007,Microscope (Beica),Optical Microscope,instrument_type_mic,manufacturer_beica,supplier_inc,CosmoStar IV,80586,S2,
+,LABEQG-008,Microscope (Neiss),Optical Microscope,instrument_type_mic,manufacturer_neiss,supplier_inc,RX Stellar,32158,S3,
+,LABEQG-009,NIRTech,Near Infra-red Transmission Analyser,instrument_type_nir,manufacturer_nirtech,supplier_inc,Series 2000,66253,S2,
+,LABEQG-010,Protein Analyser,Proteins,instrument_type_prot,manufacturer_bade,supplier_inc,Turbsolve 12,63553,S5,
+,LABEQG-011,Spectrometer 2,Spectrophotometer,instrument_type_spec,manufacturer_deckban,supplier_inc,FUD-55,27204,S1,
 ,LABEQG-012,Spectrometer 3,Spectrophotometer,instrument_type_spec,manufacturer_bunico,supplier_inc,1001,37860,,
 ,LABEQG-013,Bach,Turbidity Meter,instrument_type_turb,manufacturer_bach,supplier_inc,XRatio 1,27605,,
-,LABEQG-014,Spectrometer 4,Un/Vis Spectrophotometer,instrument_type_unvis,manufacturer_pelmer,supplier_inc,Delta 3Z,77142,,
+,LABEQG-014,Spectrometer 4,Un/Vis Spectrophotometer,instrument_type_unvis,manufacturer_pelmer,supplier_inc,Delta 3Z,77152,,
 ,LABEQG-015,Titrator station 1,Volumetric Titrator,instrument_type_aut,manufacturer_darl,supplier_inc,TJ100,75888,,
-,LABEQG-016,Incubator 1,Old incubator,instrument_type_inc,manufacturer_fermothiher,supplier_inc,Scientific Midi 12,41163,,
+,LABEQG-016,Incubator 1,Old incubator,instrument_type_inc,manufacturer_fermothiher,supplier_inc,Scientific Midi 12,41263,,
 ,LABEQG-017,Incubator 2,New incubator,instrument_type_inc,manufacturer_fermothiher,supplier_inc,Scientific Midi 40,32921,,
 ,LABEQG-018,Balance at reception,Precision weighing balance,instrument_type_elec,manufacturer_bartorius,supplier_inc,DIK50 Mark II,32128,,
-,LABEQG-019,Lab Balance 1,Precision weighing balance,instrument_type_elec,manufacturer_bohaus,supplier_inc,BB22DD,66153,,
-,LABEQG-020,Lab Balance 2,Precision weighing balance,instrument_type_elec,manufacturer_bohaus,supplier_inc,BB22DD,63453,,
+,LABEQG-019,Lab Balance 1,Precision weighing balance,instrument_type_elec,manufacturer_bohaus,supplier_inc,BB22DD,66166,,
+,LABEQG-020,Lab Balance 2,Precision weighing balance,instrument_type_elec,manufacturer_bohaus,supplier_inc,BB22DD,63458,,
 ,LABEQG-021,Fiastar,FIA Star v1 and v2,instrument_type_fias,manufacturer_boss,supplier_inc,Fiastar,37877,,
